@@ -115,11 +115,3 @@ Definido inteiramente em `globals.css` — sem dependência do Tailwind para o v
 | `.anim-fade-up` | Entrada com deslize para cima |
 | `.anim-fade-in` | Entrada com fade |
 | `.anim-blink` | Cursor piscante no streaming |
-
-Paleta principal (variáveis CSS em `:root`):
-
-```css
---navy-950: #04080f   /* fundo */
---gold-400: #e8c96a   /* destaque */
---gold-500: #d4a843   /* primário */
-```
